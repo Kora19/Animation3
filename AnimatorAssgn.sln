@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "AnimatorAssgn", "AnimatorAssgn\AnimatorAssgn.esproj", "{92791A37-E99E-442B-AD0A-389BDC62CA5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92791A37-E99E-442B-AD0A-389BDC62CA5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92791A37-E99E-442B-AD0A-389BDC62CA5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92791A37-E99E-442B-AD0A-389BDC62CA5B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{92791A37-E99E-442B-AD0A-389BDC62CA5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92791A37-E99E-442B-AD0A-389BDC62CA5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92791A37-E99E-442B-AD0A-389BDC62CA5B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E74D10D-AED3-406E-8844-E9B4195E1FBD}
+	EndGlobalSection
+EndGlobal
